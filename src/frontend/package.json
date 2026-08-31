@@ -53,7 +53,7 @@
     "react-laag": "^2.0.5",
     "react-markdown": "^8.0.7",
     "react-pdf": "^7.7.1",
-    "react-router-dom": "^6.15.0",
+    "react-router-dom": "^6.30.6",
     "react-syntax-highlighter": "^15.5.0",
     "react18-json-view": "^0.2.3",
     "reactflow": "^11.9.2",
